@@ -9,8 +9,10 @@ namespace CetStudentBook.Data
 
         public DbSet<Student> Students { get; set; }
 
-
-
+        public DbSet<Book> Books { get; set; } // booku db'ye ekliyorum
+        
 
     }
 }
+// DB tablosu - yaptım 
+// Migration - şu an yapmaya çalışıyorum
