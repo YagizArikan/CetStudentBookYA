@@ -6,11 +6,11 @@ using System.Diagnostics;
 
 namespace CetStudentBook.Controllers;
 
-public class BookListController : Controller
+public class BookController : Controller
 {
     private ApplicationDbContext context;
 
-    public BookListController(ApplicationDbContext dbContext)
+    public BookController(ApplicationDbContext dbContext)
     {
         context = dbContext;
     }
