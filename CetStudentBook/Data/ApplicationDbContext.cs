@@ -15,4 +15,4 @@ namespace CetStudentBook.Data
     }
 }
 // DB tablosu - yaptım 
-// Migration - şu an yapmaya çalışıyorum
+// Migration - şu an yapmaya çalışıyorum - yaptım
